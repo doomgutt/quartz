@@ -1,7 +1,3 @@
-# work plz
-
-[quartz main](/content/quartz/main.md)
-
 # Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
