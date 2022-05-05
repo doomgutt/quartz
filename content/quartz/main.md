@@ -1,7 +1,5 @@
 ---
-title: "PLZ WORK THX"
+title: "main"
 ---
 
-
-Rest of your content here...
-asda
+[[learning]]
